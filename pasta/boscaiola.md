@@ -13,3 +13,4 @@
 ## Instructions
 
 TODO: these are missing
+First, check youtube videos
